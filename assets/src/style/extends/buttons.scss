@@ -1,0 +1,14 @@
+// buttons Bootstrap 3
+ /** font-family: 'Montserrat', sans-serif; **/
+.btn{
+  transition: 0.2s;
+  border-radius: 2px;
+
+  /* Text style for "info" */
+  letter-spacing: 0.7px;
+  &:focus{
+    outline: none;
+  }
+
+
+}

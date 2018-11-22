@@ -1,0 +1,78 @@
+.navbar{
+  margin: 0;
+  border: none;
+}
+.navbar-nav {
+  display: flex;
+  width: 100%;
+  li{
+    text-align: center;
+    flex-grow: 1;
+    transition: 0.2s;
+    &:hover{
+      background-color: $navbar-default-link-active-bg;
+    }
+    a{
+
+    }
+  }
+
+  @media (max-width: $grid-float-breakpoint-max) {
+
+    //position: absolute;
+    //left: 0;
+    //top: 0;
+    //width: 100%;
+    display: block;
+    margin: 0;
+    background-color: #fff;
+    li{
+      text-align: left;
+      margin-bottom: 1px;
+      background-color: $navbar-default-bg;
+      a{
+        padding:15px 20px;
+      }
+    }
+
+  }
+
+  // Uncollapse the nav
+  @media (min-width: $grid-float-breakpoint) {
+    float: left;
+    margin: 0;
+
+    > li {
+      float: left;
+      > a {
+        padding-top:    23px;
+        padding-bottom: 23px;
+      }
+    }
+  }
+}
+.navbar-collapse {
+  padding: 0;
+  @media (min-width: $grid-float-breakpoint) {
+    .navbar-fixed-top &,
+    .navbar-static-top &,
+    .navbar-fixed-bottom & {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+.navbar-default{
+
+  @media (max-width: $grid-float-breakpoint-max) {
+    background-color: #fff;
+
+  }
+}
+.navbar-wrapper{
+  background-color: $navbar-default-bg;
+  @media (max-width:767px) {
+    display: none;
+    background-color: #fff;
+  }
+}

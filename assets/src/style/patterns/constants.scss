@@ -1,0 +1,128 @@
+body {
+  font-size: 16px;
+  color: #202020;
+}
+
+///таблица rem
+$r10: 0.625rem;
+$r11: 0.6875rem;
+$r12: 0.75rem;
+$r13: 0.8125rem;
+$r14: 0.875rem;
+$r15: 0.9375rem;
+$r16: 1rem;
+$r18: 1.125rem;
+$r20: 1.25rem;
+$r22: 1.375rem;
+$r24: 1.5rem;
+$r26: 1.625rem;
+$r28: 1.75rem;
+$r30: 1.875rem;
+$r32: 2rem;
+$r34: 2.125rem;
+$r36: 2.25rem;
+$r38: 2.375rem;
+$r40: 2.5rem;
+$r50: 3.125rem;
+$r60: 3.75rem;
+
+$e10: 0.625em;
+$e11: 0.6875em;
+$e12: 0.75em;
+$e13: 0.8125em;
+$e14: 0.875em;
+$e15: 0.9375em;
+$e16: 1em;
+$e18: 1.125em;
+$e20: 1.25em;
+$e22: 1.375em;
+$e24: 1.5em;
+$e26: 1.625rem;
+$e28: 1.75em;
+$e30: 1.875em;
+$e32: 2em;
+$e34: 2.125em;
+$e36: 2.25em;
+$e38: 2.375em;
+$e40: 2.5em;
+$e50: 3.125em;
+$e60: 3.75em;
+%open-sans {
+  font-family: Open-Sans, sans-serif;
+}
+
+%roboto {
+  font-family: Roboto, sans-serif;
+}
+
+%monserrat {
+  font-family: Montserrat, sans-serif;
+}
+
+@mixin open-sans($fz) {
+  @extend %open-sans;
+  font-size: $fz;
+
+}
+
+@mixin roboto($fz) {
+  @extend %roboto;
+  font-size: $fz;
+
+}
+
+@mixin monserrat($fz) {
+  @extend %monserrat;
+  font-size: $fz;
+
+}
+
+.p {
+  @include open-sans($r15);
+  color: #808080;
+  line-height: 24px;
+
+}
+
+.date {
+  @include open-sans($r16);
+  font-weight: 400;
+
+}
+
+.h2 {
+  @include open-sans($r36);
+  text-align: center;
+  font-weight: 400;
+}
+
+.h3 {
+  @include open-sans($r20);
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.link {
+  @include roboto($r14);
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #202020;
+}
+
+.comment {
+  @include roboto($r14);
+  font-weight: 400;
+  margin-left: 20px;
+}
+
+.main {
+  padding-top: 80px;
+  min-width: 320px;
+}
+
+@media (max-width: 600px) {
+  .main {
+    padding-top: 40px;
+    min-width: 320px;
+  }
+}

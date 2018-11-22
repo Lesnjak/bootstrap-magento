@@ -1,0 +1,70 @@
+
+.rating {
+  input {
+    display: none;
+  }
+  &-wrapper {
+
+  }
+  &-boxes {
+    margin-top: 30px;
+  }
+  &-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  &-stars {
+    width: 100px;
+    height: 24px;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row-reverse;
+
+    label {
+      margin: 2px;
+      &:before {
+        position: relative;
+        font: 18px FontAwesome;
+        display: block;
+        content: "\f006";
+        color: #ffb400;
+      }
+    }
+    label.selected:before,
+    label.selected ~ label:before,
+    label:hover:before,
+    label:hover ~ label:before {
+      content: "\f005";
+      color: #ffb400;
+    }
+
+  }
+  &-persent {
+    width: 100px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    justify-content: center;
+    i {
+      margin: 2px;
+    }
+    &--back {
+      display: flex;
+      color: rgba(128, 128, 128, 0.42);
+      position: relative;
+    }
+    &--front {
+      display: flex;
+      color: #FFBC0B;
+      overflow: hidden;
+      position: absolute;
+      top: 0;
+    }
+  }
+
+}
+
+
+

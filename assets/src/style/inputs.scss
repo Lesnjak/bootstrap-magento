@@ -1,0 +1,141 @@
+.inputs {
+
+  input {
+    display: none;
+  }
+  &-boxes {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  &-box {
+    display: flex;
+    flex-direction: column;
+
+    margin: 0 15px;
+
+  }
+  &-choose {
+    display: flex;
+    font-weight: 400;
+    margin: 7px 0;
+    @include open-sans($r15);
+    padding-left: 35px;
+    cursor: pointer;
+    position: relative;
+    &:before {
+      content: "";
+      position: absolute;
+      top: 2px;
+      width: 16px;
+      height: 16px;
+      border: 1px solid #464646;
+      background-color: #ffffff;
+      background-size: 40%;
+      left: 0;
+      transition: .3s;
+      background-position: center;
+      background-repeat: no-repeat;
+      transition: 0.3s;
+    }
+    &:hover {
+      color: black;
+    }
+    &--radio {
+      &:before {
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+
+      }
+    }
+    &--radioSwipe {
+      width: 163px;
+      padding-left: 65px;
+      span {
+        padding: 0 3px;
+      }
+      span:nth-of-type(2) {
+
+        display: none;
+      }
+      span:nth-of-type(1) {
+        display: block;
+
+      }
+      &:before {
+        width: 47px;
+        height: 20px;
+        border-radius: 10px;
+        background-color: #34bf49;
+        border: none;
+
+      }
+      &:after {
+        transition: 0.3s;
+        position: absolute;
+        content: '';
+        width: 16px;
+        height: 16px;
+        background-color: #ffffff;
+        border-radius: 50%;
+        top: 4px;
+        left: 29px;
+      }
+    }
+  }
+  .checked {
+    &.inputs-choose--checkbox {
+      &:before {
+        border: 1px solid #31a5e7;
+        background-image: url(../img/Check.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 50%;
+
+      }
+    }
+    &.inputs-choose--radio {
+      &:before {
+        border: 1px solid #31a5e7;
+        background-image: url(../img/Point.png);
+
+      }
+    }
+    &.inputs-choose--radioSwipe {
+      span:nth-of-type(2) {
+        display: block;
+
+      }
+      span:nth-of-type(1) {
+        display: none;
+
+      }
+      &:before {
+        width: 47px;
+        height: 20px;
+        border-radius: 10px;
+        background-color: #f49a9e;
+
+      }
+      &:after {
+        left: 2px;
+      }
+    }
+
+  }
+}
+
+@media (max-width: 767px) {
+  .inputs-box {
+    margin: 0 20px 20px 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .inputs-boxes {
+    justify-content: flex-start;
+  }
+
+}

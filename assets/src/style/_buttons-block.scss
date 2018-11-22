@@ -1,0 +1,33 @@
+.buttons{
+  font-size: 0;
+  &-wrapper{
+    overflow: hidden;
+  }
+  &-box{
+    margin: 30px -10px 0 -10px;
+    text-align: center;
+    .btn{
+      transition: 0.2s;
+      @include monserrat($r14);
+      padding: $e15 $e20;
+      margin: 10px  ;
+      text-transform: uppercase;
+      font-weight: 600;
+      border-radius: 2px;
+
+      /* Text style for "info" */
+      letter-spacing: 0.7px;
+      &:focus{
+        outline: none;
+      }
+
+
+    }
+  }
+
+}
+@media (max-width: 993px) {
+.buttons-box{
+  text-align: left;
+}
+}
