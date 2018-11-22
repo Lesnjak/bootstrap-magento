@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a49f315-1f3b-477e-965f-916dc1fa1a84" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/build/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/build/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/js/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/js/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/js/my.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/js/my.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/js/t.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/js/t.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/_buttons-block.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/_buttons-block.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/extends/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/extends/buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/extends/extends.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/extends/extends.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/extends/grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/extends/grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/extends/navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/extends/navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/inputs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/inputs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/map.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/map.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/my.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/my.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/patterns/constants.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/patterns/constants.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/patterns/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/patterns/fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/patterns/patterns.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/patterns/patterns.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/rating.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/rating.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/style/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/style/slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/template/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/template/footer.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2208">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/src/template/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bower_components</find>
+      <find>reset</find>
+      <find>btn-primary</find>
+      <find>nav</find>
+      <find>navbar-nav</find>
+      <find>ratin</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\vnach\Desktop\gulp-project-bootstrap-4-master\assets\src\libs</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/src/style/extends/pagination.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/panels.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/popovers.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/print.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/progress-bars.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/responsive-embed.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/responsive-utilities.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/scaffolding.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/tables.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/theme.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/thumbnails.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/tooltip.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/type.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/utilities.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/wells.scss" />
+        <option value="$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/_buttons.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/patterns.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/fonts.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/patterns/patterns.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/my.scss" />
+        <option value="$PROJECT_DIR$/assets/build/js/main.js" />
+        <option value="$PROJECT_DIR$/assets/src/style/buttons-block.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/_bootstrap.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/glyphicons.scss" />
+        <option value="$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/_glyphicons.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/buttons.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/_buttons-block.scss" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/extends.scss" />
+        <option value="$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_grid.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/navbar.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/grid.scss" />
+        <option value="$PROJECT_DIR$/assets/src/js/t.js" />
+        <option value="$PROJECT_DIR$/assets/src/js/map.js" />
+        <option value="$PROJECT_DIR$/assets/src/js/main.js" />
+        <option value="$PROJECT_DIR$/assets/src/style/patterns/fonts.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/patterns/constants.scss" />
+        <option value="$PROJECT_DIR$/assets/src/js/my.js" />
+        <option value="$PROJECT_DIR$/assets/src/style/footer.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/header.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/inputs.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/map.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/rating.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/slider.scss" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/assets/src/style/extends/variables.scss" />
+        <option value="$PROJECT_DIR$/assets/src/style/main.scss" />
+        <option value="$PROJECT_DIR$/assets/src/template/head.html" />
+        <option value="$PROJECT_DIR$/assets/src/template/footer.html" />
+        <option value="$PROJECT_DIR$/assets/src/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="$USER_HOME$/AppData/Roaming/npm/node_modules/bower" />
+    <bower.json value="$PROJECT_DIR$/bower.json" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="322" />
+    <option name="y" value="-15" />
+    <option name="width" value="698" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bootstrap-progect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-progect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-progect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-progect" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-progect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-progect" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-progect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-progect" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-progect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-progect" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+              <item name="extends" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-progect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-progect" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-progect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-progect" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="-&#9;FILE&#9;file://C:/Users/vnach/Desktop/gulp-project-bootstrap-4-master/assets/src/libs/bootstrap-sass/assets/stylesheets/_bootstrap-compass.scss&#10;btn&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gits/Lesnjak.github.io" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vnach\Desktop\bootstrap-progect\assets\src\libs\bootstrap-sass\assets\fonts" />
+      <recent name="C:\Users\vnach\Desktop\bootstrap-progect\assets\src\fonts" />
+      <recent name="C:\Users\vnach\Desktop\bootstrap-progect\assets\src\libs" />
+      <recent name="C:\Users\vnach\Desktop\bootstrap-progect" />
+      <recent name="C:\Users\vnach\Desktop\gulp-project-bootstrap-4-master\assets\src\style\patterns" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a49f315-1f3b-477e-965f-916dc1fa1a84" name="Default" comment="" />
+      <created>1542700453749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542700453749</updated>
+      <workItem from="1542700455720" duration="464000" />
+      <workItem from="1542712179886" duration="10294000" />
+      <workItem from="1542722933475" duration="20543000" />
+      <workItem from="1542780412823" duration="5953000" />
+      <workItem from="1542789503552" duration="45037000" />
+      <workItem from="1542870915790" duration="22000" />
+      <workItem from="1542871765707" duration="23776000" />
+      <workItem from="1542907189606" duration="565000" />
+      <workItem from="1542909504016" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106910000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Gulp" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.2909226" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25864908" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294893" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/src/style/extends/tooltip.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/src/style/extends/type.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/src/style/extends/utilities.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/src/style/extends/wells.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/_button-groups.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/_input-groups.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/_normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9004" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_buttons.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/domains/DBA/app/sass/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/_bootstrap-compass.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/css/main.min.css" />
+    <entry file="file://C:/domains/DBA/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/domains/DBA/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/_bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="55" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/_glyphicons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/extends/buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-984">
+          <caret line="123" column="34" selection-start-line="123" selection-start-column="34" selection-end-line="123" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/_buttons-block.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/domains/DBA/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/extends/extends.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/libs/bootstrap-sass/assets/stylesheets/bootstrap/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="397" selection-start-line="397" selection-end-line="397" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="195" selection-start-line="195" selection-end-line="195" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/extends/navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/extends/grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/libs/bootstrap-sass/assets/stylesheets/bootstrap/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/js/t.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="454" selection-start-line="454" selection-end-line="458" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/js/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/patterns/patterns.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/patterns/constants.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-802">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/js/my.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="121" column="14" lean-forward="true" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2208">
+          <caret line="96" column="21" selection-end-line="141" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3082">
+          <caret line="134" column="11" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/rating.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="5" column="13" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/my.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/map.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="19" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/inputs.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1521">
+          <caret line="113" column="7" selection-end-line="140" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/patterns/fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/extends/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/style/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/template/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/template/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2208">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
